@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Everyday、カチューシャ",
+  "base_artist": "AKB48",
+  "createdAt": "2026-02-24T12:54:11.279201Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everyday、カチューシャ",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/01_Everyday、カチューシャ_AKB48.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everyday、カチューシャ(SDN48 ver.)",
+      "artist": "SDN48",
+      "has_synced": true,
+      "path": "select/02_Everyday、カチューシャ(SDN48_ver.)_SDN48.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everyday,カチューシャ(SDN Ver.)",
+      "artist": "SDN48",
+      "has_synced": true,
+      "path": "select/03_Everyday,カチューシャ(SDN_Ver.)_SDN48.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everyday、カチューシャ",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/04_Everyday、カチューシャ_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Everyday、カチューシャ",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/05_Everyday、カチューシャ_AKB48.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everyday、カチューシャ (SDN48 ver.)",
+      "artist": "SDN48",
+      "has_synced": true,
+      "path": "select/06_Everyday、カチューシャ_(SDN48_ver.)_SDN48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everyday、カチューシャ",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/pl_01_Everyday、カチューシャ_AKB48.txt"
+    }
+  ]
+}
